@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+section h1 {
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  font-size: 48px;
+  margin: 0px;
+  text-decoration: underline;
+  color: #E96479;
+}
+section h2 {
+  text-align: center;
+  font-family: arial;
+}
+
+section {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  border-style: solid;
+  border-color: #2e46a2;
+  border-width: 5px;
+  background-color: #7DB9B6;
+  font-family: arial;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
